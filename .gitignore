@@ -9,4 +9,4 @@ ormconfig.json
 dist
 
 tmp/*
-!tpm/.gitkeep
+!tmp/.gitkeep
